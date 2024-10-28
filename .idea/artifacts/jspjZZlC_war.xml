@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jspjZZlC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jspjZZlC</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jspjZZlC.war">
+      <element id="artifact" artifact-name="jspjZZlC:war exploded" />
+    </root>
+  </artifact>
+</component>
